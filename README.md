@@ -1,1 +1,1 @@
-Used Incremental generators functionality to provide vlaidations , only by applying custom attribute
+Used Incremental generators functionality to provide validations , only by applying custom attribute
